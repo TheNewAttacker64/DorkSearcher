@@ -20,3 +20,8 @@ Simple  Bing Searcher  made in bash
 # work on
 
 [![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION (other linux distros)**
+
+# Features
+
+- [x] uses tor as proxy
+- [x] Threading System
