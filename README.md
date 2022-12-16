@@ -16,3 +16,7 @@ Simple  Bing Searcher  made in bash
 # ScreenShots
 
 ![](Screenshot/Dorker.PNG)
+
+# work on
+
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION (other linux distros)**
