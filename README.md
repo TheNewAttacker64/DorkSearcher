@@ -15,4 +15,4 @@ Simple  Bing Searcher  made in bash
 
 # ScreenShot
 
-![](Screenshots/dorker.PNG)
+![](Screenshot/dorker.PNG)
