@@ -1,5 +1,5 @@
 # DorkSearcher
-Simple  Bing Searcher  made in bash 
+Simple  Bing dork Searcher  made in bash 
 
 <p align="center">
   <b> Follow on Social Media Platforms </b>
