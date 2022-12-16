@@ -13,6 +13,6 @@ Simple  Bing Searcher  made in bash
 <a href="https://www.facebook.com/achihemek.achihemek/"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
 </p>
 
-# ScreenShot
+# ScreenShots
 
-![](Screenshots/dorker.PNG)
+![](Screenshot/Dorker.PNG)
